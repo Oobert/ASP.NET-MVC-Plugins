@@ -37,7 +37,7 @@ namespace ASPNET.Plugin.Master.Lib
 
             return null != manifest;
 
-            //return checkPath.StartsWith("~/Views/home/Index.cshtml", StringComparison.InvariantCultureIgnoreCase);
+          
        
         }
         public override bool FileExists(string virtualPath)
