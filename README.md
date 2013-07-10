@@ -10,3 +10,4 @@ Note: This is a VS2012 project in MVC4 however this code will work in VS2012 and
 Blog Posts Describing Project:
 ==============================
 http://www.geekwithopinions.com/2013/06/12/asp-net-dropin-dll-plugin-part-one/
+http://www.geekwithopinions.com/2013/07/09/asp-net-dropin-dll-plugin-part-two/
